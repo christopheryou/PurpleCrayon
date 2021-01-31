@@ -1,0 +1,8 @@
+﻿  sky.cc
+cl : command line warning D9002: ignoring unknown option '-std=c++14'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\opengl_headers.h(19,1): warning C4005: 'NANOGUI_GLAD': macro redefinition
+C:\Users\chris\repo-you00017\dev\a6-harold\sky.cc : message : see previous definition of 'NANOGUI_GLAD'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(100,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\text_shader.h(64,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  a6-harold.vcxproj -> C:\Users\chris\repo-you00017\dev\a6-harold\build\Debug\a6-harold.exe

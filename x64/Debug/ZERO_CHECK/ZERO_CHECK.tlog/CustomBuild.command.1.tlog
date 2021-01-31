@@ -1,0 +1,10 @@
+^C:\USERS\CHRIS\REPO-YOU00017\DEV\A6-HAROLD\BUILD\CMAKEFILES\E34E3C41F426C84FA6D867B682CAB47C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/chris/repo-you00017/dev/a6-harold -BC:/Users/chris/repo-you00017/dev/a6-harold/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/chris/repo-you00017/dev/a6-harold/build/a6-harold.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

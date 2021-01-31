@@ -1,0 +1,4 @@
+C:/Users/chris/repo-you00017/dev/a6-harold/build/CMakeFiles/a6-harold.dir
+C:/Users/chris/repo-you00017/dev/a6-harold/build/CMakeFiles/INSTALL.dir
+C:/Users/chris/repo-you00017/dev/a6-harold/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/chris/repo-you00017/dev/a6-harold/build/CMakeFiles/ZERO_CHECK.dir
