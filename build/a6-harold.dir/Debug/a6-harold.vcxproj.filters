@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a6-harold\billboards.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a6-harold\harold_app.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a6-harold\edge_mesh.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a6-harold\ground.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a6-harold\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a6-harold\sky.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\billboards.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\harold_app.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\edge_mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\ground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\sky.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\config.h.in">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\README.md" />
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\artsy.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\artsy.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\outline.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\outline.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\stroke2d.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\stroke2d.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\stroke3d.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a6-harold\shaders\stroke3d.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chris\repo-you00017\dev\a6-harold\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1259B0F7-E9CA-39D8-B2B4-F6F32E17A5E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{9576B8DC-1A19-3C51-B567-5DE94709330B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33660833-9750-32CA-99F2-6D1A1CF00DB9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
